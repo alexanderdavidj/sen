@@ -1,5 +1,3 @@
-const request = require("request");
-const fakeUa = require("fake-useragent");
 const server = require("express")();
 const path = require("path");
 const server_port = 25564;
