@@ -1,5 +1,5 @@
 {
-    "name": "shitexpress-notes",
+    "name": "sen",
     "version": "0.0.0",
     "description": "h",
     "main": "node/server.js",
@@ -10,7 +10,6 @@
     "author": "alexanderdavidj",
     "license": "ISC",
     "dependencies": {
-        "@types/express": "^4.17.13",
         "express": "^4.17.1",
         "path": "^0.12.7"
     }
