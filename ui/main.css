@@ -8,8 +8,13 @@ body {
 }
 
 #notes {
-    display: table;
-    clear: both;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    /* display: table;
+    clear: both; */
 }
 
 .note {
